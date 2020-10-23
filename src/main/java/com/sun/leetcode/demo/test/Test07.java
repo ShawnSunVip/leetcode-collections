@@ -15,6 +15,7 @@ public class Test07 {
     }
 
     public static int reverse(int x) {
+        // 方案一
         /*int res=0;
         System.out.println("MAX_VALUE="+Integer.MAX_VALUE);
         System.out.println("MIN_VALUE="+Integer.MIN_VALUE);
@@ -35,6 +36,7 @@ public class Test07 {
         }
         return res;*/
 
+        // 方案二
         long res=0;
         while (x !=0){
             System.out.println("x="+x);
@@ -42,6 +44,7 @@ public class Test07 {
             System.out.println("res="+res);
             x /=10;
         }
+        // 用强制转换long来判断res是否溢出，如果溢出返回0
         return (int) res ==res?(int) res:0;
     }
 }
