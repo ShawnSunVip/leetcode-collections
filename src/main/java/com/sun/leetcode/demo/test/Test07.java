@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 /**
  * @author shawn
- * @descript
+ * @descript 整数反转
  * @create 2020-10-22 8:26 下午
  */
 public class Test07 {

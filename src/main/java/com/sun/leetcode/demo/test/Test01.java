@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 /**
  * @author shawn
- * @descript
+ * @descript 整数之和
  * @create 2020-10-21 10:01 下午
  */
 public class Test01 {
