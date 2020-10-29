@@ -1,4 +1,4 @@
-package com.sun.leetcode.demo.test;
+package com.sun.leetcode.demo.test.easy;
 
 /**
  * 回文数

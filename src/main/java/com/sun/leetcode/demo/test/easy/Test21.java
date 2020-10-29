@@ -1,4 +1,6 @@
-package com.sun.leetcode.demo.test;
+package com.sun.leetcode.demo.test.easy;
+
+import com.sun.leetcode.demo.test.ListNode;
 
 import javax.tools.ForwardingFileObject;
 

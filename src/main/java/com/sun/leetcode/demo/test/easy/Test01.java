@@ -1,4 +1,4 @@
-package com.sun.leetcode.demo.test;
+package com.sun.leetcode.demo.test.easy;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
