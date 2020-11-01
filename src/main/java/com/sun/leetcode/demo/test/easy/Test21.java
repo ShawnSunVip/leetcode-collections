@@ -1,9 +1,5 @@
 package com.sun.leetcode.demo.test.easy;
 
-import com.sun.leetcode.demo.test.ListNode;
-
-import javax.tools.ForwardingFileObject;
-
 /**
  * @author sunxiang
  * 21 合并2个有序链表
